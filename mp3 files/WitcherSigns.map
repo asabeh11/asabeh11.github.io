@@ -1,0 +1,14 @@
+<img src="[witcher_signs_4x (1)] (imported)" width="1600" height="1200" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Abraham Sabeh -->
+<area shape="poly" coords="1112,45,1530,45,1542,568,1540,711,1524,724,1389,723,1388,493,1374,477,1095,477,1094,64,1100,50,1111,45,1113,45" alt="Axii" target="audio" href="Axii.mp3" />
+<area shape="poly" coords="1023,482,1371,482,1383,501,1386,986,1383,1133,1368,1150,961,1150,946,1140,944,874,1009,873,1024,856,1025,796,1021,627,1022,482,1022,488" alt="Yrden" target="audio" href="Yrden.mp3" />
+<area shape="poly" coords="593,195,1007,196,1023,220,1020,509,1021,755,1020,857,998,870,602,868,583,855,580,674,574,253,575,209,592,194,598,196" alt="Aard" target="audio" href="Aard.mp3" />
+<area shape="poly" coords="231,468,576,469,576,803,579,859,595,875,655,875,655,1094,655,1127,641,1147,231,1147,216,1132,213,1057,212,648,211,502,211,482,223,471,233,468,248,470" alt="Igni" target="audio" href="Igni.mp3" />
+<area shape="poly" coords="72,46,488,46,504,69,503,470,248,468,225,470,210,484,210,560,211,720,81,721,64,712,56,690,59,399,55,81,56,59,73,44,92,54" alt="Quen" target="audio" href="Quen.mp3" />
+</map>
